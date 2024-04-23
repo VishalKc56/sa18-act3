@@ -1,0 +1,29 @@
+[
+    {
+      "model": "myapp.product",
+      "pk": 1,
+      "fields": {
+        "name": "Laptop",
+        "price": "1200.99",
+        "description": "High-performance gaming and professional laptop with the latest graphics and processor."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 2,
+      "fields": {
+        "name": "Wireless Headphones",
+        "price": "199.99",
+        "description": "Noise-canceling wireless headphones with 24-hour battery life and superior sound quality."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 3,
+      "fields": {
+        "name": "Electric Toothbrush",
+        "price": "129.99",
+        "description": "Advanced electric toothbrush with multiple brushing modes and pressure sensor technology."
+      }
+    }
+  ]
